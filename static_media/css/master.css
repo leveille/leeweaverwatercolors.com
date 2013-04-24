@@ -515,15 +515,15 @@ body.sub #trunk {
     margin-bottom: 5px
 }
 
-#sidebar .twitter {
+#sidebar .facebook {
     margin-top: 16px
 }
 
-#sidebar .twitter a {
+#sidebar .facebook a {
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    background: url(../images/twitter.jpg) no-repeat center center;
+    background: url(../images/facebook.jpg) no-repeat center center;
     width: 323px;
     height: 49px;
     display: block;

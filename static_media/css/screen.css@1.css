@@ -1,0 +1,10 @@
+/* 
+Title:	    Screen and ie specific styles
+Author:     jason@sharpturnweb.com
+*/
+
+/* import stylesheets and hide from ie/mac \*/
+@import url("reset.css");
+@import url("master.css");
+@import url("ie.css");
+/* end import/hide */
